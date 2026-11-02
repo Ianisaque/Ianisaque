@@ -1,6 +1,6 @@
 Bem-vindo(a) ao meu perfil 👋
 <div>
-  <a href="https://github.com/lanisaque">
+  <a href="https://github.com/Ianisaque">
     <img height="180em"
     src="https://github-stats-extended.vercel.app/api?username=lanisaque&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 
